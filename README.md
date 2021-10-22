@@ -15,7 +15,7 @@ Set of algorithms that demonstrates working of Avl Tree, B-Tree and M-ary Red an
 <br>
 
 ### B-Tree
-<img src = "examples/btree.jpeg">
+<img src = "examples/btree.jpeg" width = 500>
 
 <br>
 
