@@ -21,4 +21,4 @@ Set of algorithms that demonstrates working of Avl Tree, B-Tree and Red and Blac
 
 ## How to install
 
-Just copy files to your project.
+Copy files to your project.
