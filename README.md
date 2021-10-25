@@ -2,7 +2,7 @@
 
 ## About
 
-Set of algorithms that demonstrates working of Avl Tree, B-Tree and M-ary Red and Black Trees.
+Set of algorithms that demonstrates working of Avl Tree, B-Tree and Red and Black Trees.
 
 ## Examples
 
