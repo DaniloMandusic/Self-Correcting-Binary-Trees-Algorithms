@@ -18,7 +18,3 @@ Set of algorithms that demonstrates working of Avl Tree, B-Tree and Red and Blac
 <img src = "examples/btree.jpeg" width = 500>
 
 <br>
-
-## How to install
-
-Copy cpp files to your project.
